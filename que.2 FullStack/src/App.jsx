@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-do
 import TopUsers from './pages/TopUsers';
 import TrendingPosts from './pages/TrendingPosts';
 import Feed from './pages/Feed';
-import 'tailwindcss/tailwind.css';
 
 const App = () => {
   return (
